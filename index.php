@@ -62,10 +62,10 @@
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <a href="index.html" class="logo">
+      <a href="index.php" class="logo">
         <img src="assets/img/logo.png" alt="">
       </a>
-      <h1 class="logo"><a href="index.html">PC Group S<span>.</span>A<span>.</span></a></h1>
+      <h1 class="logo"><a href="index.php">PC Group S<span>.</span>A<span>.</span></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
 
 
